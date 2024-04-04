@@ -14,7 +14,7 @@ function Footer() {
 <div className='menus'>
     <ul>
         <li>Hello</li>
-        <li>Career</li>
+        <li>Jenkins</li>
         <li>Hostory</li>
         <li>Services</li>
         <li>Projects</li>
