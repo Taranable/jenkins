@@ -1,0 +1,39 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+   width: 100%;
+  margin-top: 3%;
+    /* gap: 20%; */
+    margin-right: 40%;
+   
+    
+
+}
+.main .icon{
+    width: 40%;
+
+}
+
+.infoData{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    margin-bottom: 3%;
+    row-gap: 5%;
+    width: 60%;
+
+    
+}
+.contactData{
+    display: flex;
+    flex-direction: column;
+   width: 100%;
+   
+    /* justify-content: space-between; */
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    
+}

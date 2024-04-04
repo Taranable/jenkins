@@ -1,0 +1,24 @@
+.cardimg img{
+border-radius: 50%;
+}
+.cardimg{
+    margin-top: 2%;
+}
+.para{
+    line-height: 1.62;
+    color: rgb(55 65 81);
+}
+.info{
+    padding: 35px;
+    background-color: rgb(249 250 251);
+    width: 405px;
+    text-align: left;
+    border-radius: 0.75rem;
+    box-shadow: 0 0 1px gray;
+}
+@media screen and (max-width:480px){
+    .cardDiv{
+        width: 300px;
+        margin: 2px auto;
+    }
+}
