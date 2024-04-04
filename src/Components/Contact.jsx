@@ -11,7 +11,7 @@ function Contact() {
           <div className="left_inner">
             <div className="data">
            <p>Contact Us</p><br />
-            <h2>GET IN TOUCH WITH me</h2><br />
+            <h2>GET IN TOUCH WITH jenkins</h2><br />
             <p style={{lineHeight:"1.5"}}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eius tempor incididunt ut labore et dolore magna aliqua. Ut enim
