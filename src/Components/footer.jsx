@@ -13,7 +13,7 @@ function Footer() {
 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.<br></br> Incidunt consequuntur amet culpa cum itaque neque.</p>
 <div className='menus'>
     <ul>
-        <li>About</li>
+        <li>Hello</li>
         <li>Career</li>
         <li>Hostory</li>
         <li>Services</li>
