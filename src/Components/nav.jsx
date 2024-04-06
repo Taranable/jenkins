@@ -23,12 +23,12 @@ const Nav = () => {
         <div className='menu'>
             <ul className={menuopen?"open":""}>
                
-                <li> <Link style={{color:"rgb(59 130 246)"}} to="/">testing</Link></li>
-                <li> <Link to="/quotes"><details>jenkins test</details></Link></li>
+                <li> <Link style={{color:"rgb(59 130 246)"}} to="/">1</Link></li>
+                <li> <Link to="/quotes"><details>2</details></Link></li>
               
-                <li><Link to="/ResturantHomePage">Resturants</Link></li>
+                <li><Link to="/ResturantHomePage">3</Link></li>
                 <li>Foods</li>
-                <li><Link to="/Contact">Cofntd me</Link></li>
+                <li><Link to="/Contact">4</Link></li>
             </ul>
         </div>
         <div className='right'>
