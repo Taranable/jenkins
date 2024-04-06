@@ -24,7 +24,7 @@ const Nav = () => {
             <ul className={menuopen?"open":""}>
                
                 <li> <Link style={{color:"rgb(59 130 246)"}} to="/">testing</Link></li>
-                <li> <Link to="/quotes">Quotes</Link></li>
+                <li> <Link to="/quotes">Quote</Link></li>
               
                 <li><Link to="/ResturantHomePage">Resturants</Link></li>
                 <li>Foods</li>
