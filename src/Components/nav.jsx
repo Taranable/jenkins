@@ -28,7 +28,7 @@ const Nav = () => {
               
                 <li><Link to="/ResturantHomePage">Resturants</Link></li>
                 <li>Foods</li>
-                <li><Link to="/Contact">Contd me</Link></li>
+                <li><Link to="/Contact">Cofntd me</Link></li>
             </ul>
         </div>
         <div className='right'>
