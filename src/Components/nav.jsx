@@ -11,7 +11,7 @@ const Nav = () => {
     <div className='mainDiv'>
         <div className='left'>
             <img src="https://flowbite.com/docs/images/logo.svg" alt="" srcset="" />
-            <p className='heading'>GeekFoods</p>
+            <p className='heading'>0</p>
         </div>
         <div className="smallMenu" onClick={()=>{
             setmenuopen(!menuopen)
