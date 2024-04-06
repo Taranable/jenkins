@@ -23,7 +23,7 @@ const Nav = () => {
         <div className='menu'>
             <ul className={menuopen?"open":""}>
                
-                <li> <Link style={{color:"rgb(59 130 246)"}} to="/">Home</Link></li>
+                <li> <Link style={{color:"rgb(59 130 246)"}} to="/">testing</Link></li>
                 <li> <Link to="/quotes">Quotes</Link></li>
               
                 <li><Link to="/ResturantHomePage">Resturants</Link></li>
