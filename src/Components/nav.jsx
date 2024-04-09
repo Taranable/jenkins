@@ -28,7 +28,7 @@ const Nav = () => {
               
                 <li><Link to="/ResturantHomePage">channno</Link></li>
                 <li>taran</li>
-                <li><Link to="/Contact">agam</Link></li>
+                <li><Link to="/Contact">aflatuuuuun</Link></li>
             </ul>
         </div>
         <div className='right'>
